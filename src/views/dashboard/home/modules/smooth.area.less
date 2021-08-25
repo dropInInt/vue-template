@@ -1,0 +1,16 @@
+@import "~ant-design-vue/lib/style/index";
+
+// The prefix to use on all css classes from ant-pro.
+@ant-pro-prefix  : ant-pro;
+@smoothArea-prefix-cls: ~"@{ant-pro-prefix}-smooth-area";
+
+.@{smoothArea-prefix-cls} {
+    position: relative;
+    width: 100%;
+
+    .chart-wrapper {
+        position: absolute;
+        bottom: -28px;
+        width: 100%;
+    }
+}
