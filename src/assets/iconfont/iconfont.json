@@ -1,0 +1,44 @@
+{
+  "id": "2748260",
+  "name": "my-template",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17290115",
+      "name": "size",
+      "font_class": "size",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "18260044",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21178788",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12301830",
+      "name": "用户",
+      "font_class": "username",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "12301833",
+      "name": "密码",
+      "font_class": "password",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    }
+  ]
+}
